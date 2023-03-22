@@ -37,7 +37,7 @@
 - Windows Privillege Escalation
 - Powershell
 - Evading the AV
-- Red Teaming Learning Path - TryHackMe
+- Red Teaming Learning Path (TryHackMe)
 - Physical Red Teaming by Jeramiah Talamantes (Udemy)
 - The Art Of Lockpicking: A complete guide by David La and Itay Ca (Udemy)
 
