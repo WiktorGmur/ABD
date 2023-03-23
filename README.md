@@ -24,6 +24,7 @@
 - Metasploit Framework
 - Golang
 - Python
+- Slack
 
 ## 📃Significant Certifications
 <i>Some of the certifications listed here are learning paths covering the whole examination material for example for OSCP or Comptia Pentest+ which I sadly can't afford at the moment.😭</i>
