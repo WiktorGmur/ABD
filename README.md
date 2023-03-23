@@ -16,6 +16,7 @@
 - Social Engineering
 - Network Protocols
 - OSINT
+- MITRE ATT&CK
 - Kali Linux
 - Maltego
 - Wireshark
