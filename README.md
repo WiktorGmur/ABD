@@ -16,6 +16,7 @@
 - Social Engineering
 - Network Protocols
 - OSINT
+- Active Recon
 - MITRE ATT&CK
 - Kali Linux
 - Maltego
@@ -55,7 +56,7 @@
 - Black Hat Python by Tim Arnold and Justin Seitz
 
 ## 📺Courses
-<i>Here are the courses that I've completed on Udemy or eduj.pl.<i>
+<i>Here are the courses I've completed on Udemy or eduj.pl.<i>
 - Go Bootcamp: Master Golang with 1000+ Exercises and Projects
 - Ethical Hacking with Go programming language: Build tools
 - Programowanie obiektowe w języku Python - OOP - od A do Z
