@@ -1,5 +1,5 @@
-# ABD✔️
-<strong>ABD (Already Been Done)</strong><br>
+# <strong>Already Been Done✔️</strong><br>
+
 <i>This is a repository containing information about all of my certifications, courses and lectures I've enrolled in, books I've red and generally what I do to keep growing and expanding my knowledge and skills in the Information Security field.</i>
 
 
