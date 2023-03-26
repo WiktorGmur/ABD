@@ -25,6 +25,7 @@
 - Kali Linux
 - Maltego
 - Wireshark
+- Burp Suite
 - Metasploit Framework
 - Golang
 - Python
