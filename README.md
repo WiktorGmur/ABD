@@ -5,8 +5,9 @@
 
 
 ## 👨‍🎓Experience
-<i>Most of my hands-on experience comes from playing CTF challenges:</i>
+<i>Most of my hands-on experience comes from playing CTF challenges or Alerts on Let's Defend:</i>
 - TryHackMe (currently holding a position in <i><strong>TOP 1%</strong></i>💪)
+- Let's Defend
 - PicoCTF
 - VulnHub
 - Microsoft Learn (Azure Fundamentals Pathway, AZ-900)
@@ -15,21 +16,40 @@
 <i>All of my created tools:</i>
 - FERVEN
 
-## 😎I feel confident in
+## 🔵I feel confident in (BLUE side)
+<i>Here are the skills, tools or languages i feel confident in:</i>
+- MITRE Frameworks
+- OSINT
+- SIEM
+- EDR
+- Network Protocols
+- Splunk
+- Wireshark
+- Network Miner
+- Wazuh
+- Golang
+- Python
+- Lua
+- Windows
+- Linux
+
+
+## 🔴I feel confident in (RED side)
 <i>Here are the skills, tools or languages i feel confident in:</i>
 - Social Engineering
 - Network Protocols
 - OSINT
-- Active Recon
+- Recon
 - MITRE ATT&CK
 - Kali Linux
 - Maltego
 - Wireshark
 - Burp Suite
 - Metasploit Framework
+- Mythic C2
 - Golang
 - Python
-- Slack
+- Lua
 
 ## 📃Significant Certifications
 <i>Some of the certifications listed here are learning paths covering the whole examination material for example for OSCP or Comptia Pentest+ which I sadly can't afford at the moment.😭</i>
@@ -38,19 +58,19 @@
 - Jr Penetration Tester Learning Path - TryHackMe
 - Web Fundamentals Learning Path - TryHackMe
 
+
 ## 📈In progress
 <i>Here are the things I'm currently working on and need time to gain confidence in:</i>
-- Lockpicking
-- RFID
-- Windows Privillege Escalation
 - Powershell
-- Evading the AV
-- Red Teaming Learning Path (TryHackMe)
-- Physical Red Teaming by Jeramiah Talamantes (Udemy)
-- The Art Of Lockpicking: A complete guide by David La and Itay Ca (Udemy)
+- Windows Internals
+- Reverse Engineering
+
+
 
 ## 📚Books
-<i>These are the books I've red that are related to Social Engineering and Information Security:</i>
+<i>These are the books I've red that are related to Information Security:</i>
+- Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder
+- The Practice of Network Security Monitoring: Understanding Incident Detection and Response
 - Social Engineering: The Science of Human Hacking by Christopher Hadnagy
 - Unmasking the Social Engineer: The Human Element of Security by Christopher Hadnagy
 - 48 Laws Of Power by Robert Greene
