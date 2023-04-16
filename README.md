@@ -29,8 +29,6 @@
 - Lua
 - C#
 - .NET
-- Docker
-- Azure
 - Windows
 - Linux
 - VMWare
