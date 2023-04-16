@@ -12,10 +12,6 @@
 - VulnHub
 - Microsoft Learn (Azure Fundamentals Pathway, AZ-900)
 
-## 🛠️Tools
-<i>All of my created tools so far:</i>
-- FERVEN
-
 ## 🔵I feel confident in (BLUE side)
 <i>Here are the skills, tools or languages i feel confident in:</i>
 - MITRE Frameworks
@@ -86,6 +82,10 @@
 - How Linux Works by Brian Ward
 - Learning Go by Jon Bodner
 - Black Hat Python by Tim Arnold and Justin Seitz
+
+## 🛠️Tools
+<i>All of my created tools so far:</i>
+- FERVEN
 
 ## 📺Courses
 <i>Here are the courses I've completed on Udemy or eduj.pl.<i>
