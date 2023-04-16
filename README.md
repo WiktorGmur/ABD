@@ -31,6 +31,8 @@
 - Golang
 - Python
 - Lua
+- C#
+- .NET
 - Windows
 - Linux
 
@@ -43,6 +45,7 @@
 - Recon
 - MITRE ATT&CK
 - Kali Linux
+- Windows
 - Maltego
 - Wireshark
 - Burp Suite
@@ -51,6 +54,9 @@
 - Golang
 - Python
 - Lua
+- C#
+- .NET
+
 
 ## 📃Significant Certifications
 <i>Some of the certifications listed here are learning paths covering the whole examination material for example for OSCP or Comptia Pentest+ which I sadly can't afford at the moment.😭</i>
