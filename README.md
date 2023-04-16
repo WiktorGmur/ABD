@@ -29,8 +29,11 @@
 - Lua
 - C#
 - .NET
+- Docker
+- Azure
 - Windows
 - Linux
+- VMWare
 
 
 ## 🔴I feel confident in (RED side)
