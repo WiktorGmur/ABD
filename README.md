@@ -13,7 +13,7 @@
 - Microsoft Learn (Azure Fundamentals Pathway, AZ-900)
 
 ## 🛠️Tools
-<i>All of my created tools:</i>
+<i>All of my created tools so far:</i>
 - FERVEN
 
 ## 🔵I feel confident in (BLUE side)
