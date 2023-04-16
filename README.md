@@ -14,7 +14,11 @@
 
 ## 🔵I feel confident in (BLUE side)
 <i>Here are the skills, tools or languages i feel confident in:</i>
-- MITRE Frameworks
+- Cyber Kill Chain
+- Cyber Threat Intelligence
+- The Diamond Model
+- MITRE ATT&CK
+- MITRE D3FEND
 - OSINT
 - SIEM
 - EDR
