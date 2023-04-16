@@ -23,6 +23,7 @@
 - SIEM
 - EDR
 - Network Protocols
+- Active Directory
 - Splunk
 - Wireshark
 - Network Miner
@@ -66,7 +67,6 @@
 - Reverse Engineering
 
 
-
 ## 📚Books
 <i>These are the books I've red that are related to Information Security:</i>
 - Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder
@@ -100,9 +100,12 @@
 ## 👨‍🏫Lectures
 <i>Every Lecture I've ever been on so far related to IT Security:</i>
 - Dlaczego hackowanie aplikacji webowych jest proste? - 2022 - Sekurak
+- Dlaczego hackowanie sieci jest proste? - Sekurak
 - OSINT/OPSEC - Sekurak
 - OSINT - Niebezpiecznik
+- Hackowanie budynków - Niebezpiecznik
 - Bezpieczeństwo Windowsa cz.1 - Sekurak
+- Praktyczny Wireshark - Sekurak
 - Network Day - Code Frenzy
 - Security Day - Code Frenzy
 - Azure Summit 2023
