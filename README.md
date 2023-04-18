@@ -54,8 +54,6 @@
 - Golang
 - Python
 - Lua
-- C#
-- .NET
 
 
 ## 📃Significant Certifications
