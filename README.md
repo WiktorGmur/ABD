@@ -5,7 +5,7 @@
 
 
 ## 👨‍🎓Experience
-<i>Most of my hands-on experience comes from playing CTF challenges or Alerts on Let's Defend:</i>
+<i>Most of my hands-on experience comes from playing CTF challenges or closing Alerts on Let's Defend:</i>
 - TryHackMe (currently holding a position in <i><strong>TOP 1%</strong></i>💪)
 - Let's Defend
 - PicoCTF
