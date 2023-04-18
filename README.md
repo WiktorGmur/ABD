@@ -47,7 +47,7 @@
 - Kali Linux
 - Windows
 - Maltego
-- Wireshark
+- Nessus
 - Burp Suite
 - Metasploit Framework
 - Mythic C2
