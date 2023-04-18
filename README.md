@@ -31,8 +31,6 @@
 - Golang
 - Python
 - Lua
-- C#
-- .NET
 - Windows
 - Linux
 - VMWare
