@@ -25,6 +25,7 @@
 - Network Protocols
 - Active Directory
 - Splunk
+- ELK
 - Wireshark
 - Network Miner
 - Wazuh
