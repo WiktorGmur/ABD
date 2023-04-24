@@ -63,13 +63,15 @@
 - Offensive Pentesting Learning Path - TryHackMe
 - Jr Penetration Tester Learning Path - TryHackMe
 - Web Fundamentals Learning Path - TryHackMe
+- Cyberdefense Learning Path - TryHackMe
+- SOC Level 1 Learnign Path - TryHackMe
 
 
 ## 📈In progress
 <i>Here are the things I'm currently working on and need time to gain confidence in:</i>
 - Powershell
-- Windows Internals
-- Reverse Engineering
+- API Testing
+- Javascript
 
 
 ## 📚Books
