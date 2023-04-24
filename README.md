@@ -11,7 +11,7 @@
 - VulnHub
 
 
-## 🔴I feel confident in (RED side)
+## 😎I feel confident in 
 <i>Here are the skills, tools or languages i feel confident in:</i>
 - Social Engineering
 - Network Protocols
