@@ -5,37 +5,10 @@
 
 
 ## 👨‍🎓Experience
-<i>Most of my hands-on experience comes from playing CTF challenges or closing Alerts on Let's Defend:</i>
+<i>Most of my hands-on experience comes from playing CTFs:</i>
 - TryHackMe (currently holding a position in <i><strong>TOP 1%</strong></i>💪)
-- Let's Defend
 - PicoCTF
 - VulnHub
-- Microsoft Learn (Azure Fundamentals Pathway, AZ-900)
-
-## 🔵I feel confident in (BLUE side)
-<i>Here are the skills, tools or languages i feel confident in:</i>
-- Cyber Kill Chain
-- Cyber Threat Intelligence
-- The Diamond Model
-- MITRE ATT&CK
-- MITRE D3FEND
-- OSINT
-- SIEM
-- EDR
-- Network Protocols
-- Active Directory
-- Splunk
-- ELK
-- Wireshark
-- Network Miner
-- Wazuh
-- Golang
-- Python
-- Lua
-- Windows
-- Linux
-- VMWare
-- Teamviewer
 
 
 ## 🔴I feel confident in (RED side)
