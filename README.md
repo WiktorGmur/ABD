@@ -6,7 +6,7 @@
 
 ## 👨‍🎓Experience
 <i>Most of my hands-on experience comes from playing CTFs:</i>
-- TryHackMe (currently holding a position in <i><strong>TOP 1%</strong></i>💪)
+- TryHackMe (currently holding a position in <i><strong>TOP 1%, Ranked #6 in Poland</strong></i>💪) 
 - PicoCTF
 - VulnHub
 
