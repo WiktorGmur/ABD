@@ -37,7 +37,7 @@
 - Jr Penetration Tester Learning Path - TryHackMe
 - Web Fundamentals Learning Path - TryHackMe
 - Cyberdefense Learning Path - TryHackMe
-- SOC Level 1 Learnign Path - TryHackMe
+- SOC Level 1 Learning Path - TryHackMe
 
 
 ## 📈In progress
