@@ -61,10 +61,6 @@
 - Learning Go by Jon Bodner
 - Black Hat Python by Tim Arnold and Justin Seitz
 
-## 🛠️Tools
-<i>All of my created tools so far:</i>
-- FERVEN
-- golira
 
 ## 📺Courses
 <i>Here are the courses I've completed on Udemy or eduj.pl.<i>
