@@ -16,7 +16,6 @@
 - Social Engineering
 - Network Protocols
 - OSINT
-- Recon
 - MITRE ATT&CK
 - Kali Linux
 - Windows
@@ -43,8 +42,6 @@
 ## 📈In progress
 <i>Here are the things I'm currently working on and need time to gain confidence in:</i>
 - Powershell
-- API Testing
-- Javascript
 
 
 ## 📚Books
@@ -60,6 +57,8 @@
 - How Linux Works by Brian Ward
 - Learning Go by Jon Bodner
 - Black Hat Python by Tim Arnold and Justin Seitz
+- Bug Bounty Bootcamp by Daniel Graham
+
 
 
 ## 📺Courses
