@@ -15,7 +15,6 @@
 <i>Here are the skills, tools or languages i feel confident in:</i>
 - Social Engineering
 - Network Protocols
-- OSINT
 - Kali Linux
 - Windows
 - Maltego
