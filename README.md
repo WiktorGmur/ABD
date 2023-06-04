@@ -8,7 +8,7 @@
 <i>Most of my hands-on experience comes from playing CTFs:</i>
 - TryHackMe (currently holding a position in <i><strong>TOP 1%, Ranked #6 in Poland (April 2023)</strong></i>💪) 
 - PicoCTF
-- VulnHub
+- Portswigger Academy
 
 
 ## 😎I feel confident in 
@@ -16,7 +16,6 @@
 - Social Engineering
 - Network Protocols
 - OSINT
-- MITRE ATT&CK
 - Kali Linux
 - Windows
 - Maltego
@@ -41,6 +40,7 @@
 
 ## 📈In progress
 <i>Here are the things I'm currently working on and need time to gain confidence in:</i>
+- Lockpicking
 - Powershell
 
 
@@ -119,3 +119,5 @@
 - Cyber Gray Matter
 - Lock Noob
 - Golang Dojo
+- TheNotSoCivilEngineer
+
