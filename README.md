@@ -9,7 +9,7 @@
 - TryHackMe (currently holding a position in <i><strong>TOP 1%, Ranked #6 in Poland (April 2023)</strong></i>💪) 
 - PicoCTF
 - Portswigger Academy
-- Let's Defend
+- Let's Defend (currently holding a position in <i><strong>TOP 20 in Poland</strong></i>🏆)
 
 
 ## 📃Significant Certifications
