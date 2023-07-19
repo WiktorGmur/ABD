@@ -5,26 +5,11 @@
 
 
 ## 👨‍🎓Experience
-<i>Most of my hands-on experience comes from playing CTFs:</i>
+<i>Most of my hands-on experience comes from playing CTFs or closing alerts on Let's Defend:</i>
 - TryHackMe (currently holding a position in <i><strong>TOP 1%, Ranked #6 in Poland (April 2023)</strong></i>💪) 
 - PicoCTF
 - Portswigger Academy
-
-
-## 😎I feel confident in 
-<i>Here are the skills, tools or languages i feel confident in:</i>
-- Social Engineering
-- Network Protocols
-- Kali Linux
-- Windows
-- Maltego
-- Nessus
-- Burp Suite
-- Metasploit Framework
-- Mythic C2
-- Golang
-- Python
-- Lua
+- Let's Defend
 
 
 ## 📃Significant Certifications
@@ -37,10 +22,6 @@
 - SOC Level 1 Learning Path - TryHackMe
 
 
-## 📈In progress
-<i>Here are the things I'm currently working on and need time to gain confidence in:</i>
-- Lockpicking
-- Powershell
 
 
 ## 📚Books
@@ -57,6 +38,8 @@
 - Learning Go by Jon Bodner
 - Black Hat Python by Tim Arnold and Justin Seitz
 - Bug Bounty Bootcamp by Daniel Graham
+- Cracking Codes with Python by Al Sweigart
+- Networking For Dummies by Doug Lowe
 
 
 
@@ -114,10 +97,9 @@
 - Elevate Cyber
 - HackerSploit
 - LiveOverflow
-- McNallyOfficial
 - Cyber Gray Matter
-- Lock Noob
 - Golang Dojo
 - TheNotSoCivilEngineer
 - Rana Khalil
+- MadHat
 
